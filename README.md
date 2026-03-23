@@ -221,3 +221,5 @@ This project is created for educational purposes as part of the Web Technologies
 ## Author
 
 Created as a Mini Project for Web Technologies course - Year 2
+
+Contributors: Badri helped verify setup and documentation.
